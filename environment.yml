@@ -1,0 +1,16 @@
+name: parallax
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy=2.4
+  - pandas=2.3
+  - scikit-learn=1.9
+  - matplotlib=3.11
+  - pyarrow=25
+  - sqlalchemy=2.0
+  - psycopg2=2.9
+  - python-dotenv
+  - nbformat
+  - nbconvert
+  - ipykernel
